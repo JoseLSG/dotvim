@@ -14,7 +14,7 @@ Note that you need ctags installed in your system.
 
 Linux: This command installs exuburant ctags
 
-   sudo apt-get install ctags
+`sudo apt-get install ctags`
 
 For convinience a copy follows below.
 
