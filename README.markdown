@@ -1,3 +1,18 @@
+## My Dotvim Modification
+
+These vim plugins and configuration files originate from [Astrel's
+Dotvim](https://github.com/astrails/dotvim) in addition to
+[autotag.vim](https://github.com/craigemery/dotFiles/blob/master/vim/plugin/autotag.vim)
+
+My additions to Dotvim are located in the jls-additons directory and are an
+on-going process.
+
+Installation is the same as the original [Astrel's
+Dotvim](https://github.com/astrails/dotvim)
+
+For convinience a copy follows below.
+
+
 ## Dotvim
 
 ### An attempt at The Ultimate Vim Configuration™ ;)
