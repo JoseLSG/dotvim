@@ -10,6 +10,12 @@ on-going process.
 Installation is the same as the original [Astrel's
 Dotvim](https://github.com/astrails/dotvim)
 
+Note that you need ctags installed in your system.
+
+  // Linux
+  // this command installs exuburant ctags 
+  sudo apt-get install ctags
+
 For convinience a copy follows below.
 
 
